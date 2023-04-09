@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/portfolio-monikaGadage/static/css/main.4f2b9556.css",
+    "main.js": "/portfolio-monikaGadage/static/js/main.9b78f492.js",
+    "static/media/me.png": "/portfolio-monikaGadage/static/media/me.289ad44d2d3feb8cd8ee.png",
+    "index.html": "/portfolio-monikaGadage/index.html",
+    "main.4f2b9556.css.map": "/portfolio-monikaGadage/static/css/main.4f2b9556.css.map",
+    "main.9b78f492.js.map": "/portfolio-monikaGadage/static/js/main.9b78f492.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f2b9556.css",
+    "static/js/main.9b78f492.js"
+  ]
+}
