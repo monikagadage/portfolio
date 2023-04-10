@@ -32,7 +32,7 @@ const Home = () => {
         <div className="flex flex-col justify-center h-full md:w-1/2 ">
           <h2 ref={textRef} className="text-4xl sm:text-7xl font-bold text-white mb-6"></h2>
           <p className="text-gray-500 mb-8 max-w-md">
-          With 3+ years of experience as a Full Stack Software Developer and a passion for exploring new technologies, 
+          With a Master's degree in CS, 3+ years of experience as a Full Stack Software Developer and a passion for exploring new technologies, 
           I'm dedicated to pushing the boundaries of technology and driving innovation forward.
           </p>
           <div>
